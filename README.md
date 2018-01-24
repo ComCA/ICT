@@ -1,4 +1,4 @@
 # ICT
-Telefonia fissa
-Telefonia mobile
-Connettività
+Telefonia fissa <br>
+Telefonia mobile <br>
+Connettività <br>
